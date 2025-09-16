@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 -->
 ## 📊 My Stats
 
-| Top Languages | Hackatime Stats | Streak Stats |
-|---------------|-----------------|--------------|
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saineela&layout=compact&theme=darcula) | ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=19767&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) | ![GitHub Streak](https://streak-stats.demolab.com?user=saineela&theme=darcula&hide_border=true) |
+| Top Languages | Hackatime Stats |
+|---------------|-----------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saineela&layout=compact&theme=darcula) | ![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=19767&api_domain=hackatime.hackclub.com&theme=darcula&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8) |
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saineela&theme=darcula&hide_border=true)
